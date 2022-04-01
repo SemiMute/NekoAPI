@@ -1332,11 +1332,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\istha\\source\\repos\\NekoQOLWebAPI\\NekoQOLWebAPI\\NekoQOLWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\istha\\source\\repos\\NekoAPI\\NekoQOLWebAPI.csproj",
       "projectName": "NekoQOLWebAPI",
-      "projectPath": "C:\\Users\\istha\\source\\repos\\NekoQOLWebAPI\\NekoQOLWebAPI\\NekoQOLWebAPI.csproj",
+      "projectPath": "C:\\Users\\istha\\source\\repos\\NekoAPI\\NekoQOLWebAPI.csproj",
       "packagesPath": "C:\\Users\\istha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\istha\\source\\repos\\NekoQOLWebAPI\\NekoQOLWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\istha\\source\\repos\\NekoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\istha\\AppData\\Roaming\\NuGet\\NuGet.Config",
